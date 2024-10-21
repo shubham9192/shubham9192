@@ -1,4 +1,4 @@
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Shubham9211.png" alt="Your Image Badge" />]
+[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3319355" style='border:none;'></iframe>]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kushwaha5309) 
 
